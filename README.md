@@ -40,6 +40,13 @@ password-analyzer/
 
 ## ▶️ How to Run
 
+After installing requirements.txt, we type "python main.py" in the terminal this will should be the outpot you see 
+
+<img width="697" height="85" alt="image" src="https://github.com/user-attachments/assets/7f5170b9-86e4-4a94-b279-a2107ed1fa90" />
+
+After typing the password for testing,we press enter 
+<img width="731" height="342" alt="image" src="https://github.com/user-attachments/assets/12f9f915-5c18-460d-89db-55c7226fc6f1" />
+
 ```bash
 pip install -r requirements.txt
 python main.py
@@ -47,11 +54,6 @@ python main.py
 
 
 
-<img width="697" height="85" alt="image" src="https://github.com/user-attachments/assets/7f5170b9-86e4-4a94-b279-a2107ed1fa90" />
-
-After typing the password for testing,we press enter 
-
-<img width="731" height="342" alt="image" src="https://github.com/user-attachments/assets/12f9f915-5c18-460d-89db-55c7226fc6f1" />
 
 
 
